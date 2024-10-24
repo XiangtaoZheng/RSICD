@@ -26,7 +26,7 @@ RSICD is used for remote sensing image captioning task. more than ten thousands 
 
 There are two examples in dataset:
 
-  ![](./example.PNG)
+  ![](./RSICD/example.PNG)
 
 ## Other Source of RSICD Datasets 
 
