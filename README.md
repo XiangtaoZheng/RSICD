@@ -21,3 +21,27 @@ RSICD is used for remote sensing image captioning task. more than ten thousands 
 **Git downloads are size limited, need to use large file storage (LFS), and also need to modify the settings, specifically see [here](http://blog.csdn.net/m0_37052320/article/details/77799413). It is recommended that you download from the Google SkyDrive and Baidu SkyDrive.**
 
 **注意：git下载是有大小限制的，需要使用大文件存储（LFS）,还需要修改设置，具体参见[这里](http://blog.csdn.net/m0_37052320/article/details/77799413)。推荐大家使用下面的谷歌网盘和百度网盘下载。**
+
+## Examples
+
+There are two examples in dataset:
+
+  ![](./example.PNG)
+
+## Other Source of RSICD Datasets 
+
+[Baidupan](http://pan.baidu.com/s/1bp71tE3)
+
+[GoogleDrive](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)
+
+## Other remote sensing image captioning dataset
+
+[UCM_captions-BaiduPan](https://pan.baidu.com/s/1mjPToHq)
+
+[Sydney_captions-BaiduPan](https://pan.baidu.com/s/1hujEmcG)
+
+[UCM_captions-MEGA](https://mega.nz/folder/wCpSzSoS#RXzIlrv--TDt3ENZdKN8JA)
+
+[RSICD-MEGA](https://mega.nz/folder/EOpjTAwL#LWdHVjKAJbd3NbLsCvzDGA)
+
+[Sydney_captions-MEGA](https://mega.nz/folder/pG4yTYYA#4c4buNFLibryZnlujsrwEQ)
