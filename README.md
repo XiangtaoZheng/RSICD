@@ -4,13 +4,14 @@ If you use our dataset, please cite our paper above.
 
 [1] Lu X, Wang B, Zheng X, et al. Exploring models and data for remote sensing image caption generation[J]. IEEE Transactions on Geoscience and Remote Sensing, 2017, 56(4): 2183-2195.
 
-@article{zheng2021mutual,
-  title={Mutual attention inception network for remote sensing visual question answering},
-  author={Zheng, Xiangtao and Wang, Binqiang and Du, Xingqian and Lu, Xiaoqiang},
+@article{lu2017exploring,
+  title={Exploring models and data for remote sensing image caption generation},
+  author={Lu, Xiaoqiang and Wang, Binqiang and Zheng, Xiangtao and Li, Xuelong},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={60},
-  pages={1--14},
-  year={2021},
+  volume={56},
+  number={4},
+  pages={2183--2195},
+  year={2017},
   publisher={IEEE}
 }
 
