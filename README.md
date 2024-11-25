@@ -2,17 +2,17 @@
 RSICD is used for remote sensing image captioning task. The detailed information about this dataset can be found in our paper "Exploring Models and Data for Remote Sensing Image Caption Generation".
 If you use our dataset, please cite our paper above. 
 
-[1] X. Lu, B. Wang, X. Zheng and X. Li, "Exploring Models and Data for Remote Sensing Image Caption Generation," in IEEE Transactions on Geoscience and Remote Sensing, 2017.
+[1] X. Lu, B. Wang, X. Zheng and X. Li, "Exploring Models and Data for Remote Sensing Image Caption Generation," IEEE Transactions on Geoscience and Remote Sensing, 2017.
 
-@article{lu2017exploring,
-  title={Exploring models and data for remote sensing image caption generation},
-  author={Lu, Xiaoqiang and Wang, Binqiang and Zheng, Xiangtao and Li, Xuelong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={56},
-  number={4},
-  pages={2183--2195},
-  year={2017},
-  publisher={IEEE}
+@article{lu2017exploring,  
+title={Exploring models and data for remote sensing image caption generation},  
+author={Lu, Xiaoqiang and Wang, Binqiang and Zheng, Xiangtao and Li, Xuelong},
+journal={IEEE Transactions on Geoscience and Remote Sensing},  
+volume={56},  
+number={4},  
+pages={2183--2195},  
+year={2017},  
+publisher={IEEE}  
 }
 
 ## Overview
